@@ -12,8 +12,3 @@ Unit Converter Android App
  - Has most important conversion tools that are used in daily life including length, weight
  and temperature.
  - Has different units, which let you convert metre into centimetre & foot & inch, kilogram into gram & ounce & pound, and Celsius to Fahrenheit & Kelvin.
-
-# Screenshot of the main screen
-<img src="https://github.com/saih1/SIT305UnitConverterApp/blob/8cdb36d4fefd0fdab393e87019a4ebee0e664534/SIT305%20Task2_1%20SS.png" width="200">
-
-
