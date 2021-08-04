@@ -1,4 +1,4 @@
-# SIT305UnitConverterApp
+# SIT305 Unit Converter App
 SIT305 – Mobile application Development Unit Converter Mobile APP
 Overview
 
